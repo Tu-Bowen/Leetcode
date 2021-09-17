@@ -1,5 +1,7 @@
 # 单词搜索2
 
+力扣：https://leetcode-cn.com/problems/word-search-ii/
+
 **思路一：**
 死亡暴力法，直接用单词搜索1的方法循环监测每一个words数组中的字符串
 

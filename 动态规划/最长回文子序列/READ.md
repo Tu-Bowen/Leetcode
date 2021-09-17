@@ -1,5 +1,8 @@
 # 最长回文子序列
 
+https://leetcode-cn.com/problems/longest-palindromic-subsequence/
+
+
 **思路：** 动态规划
 
 

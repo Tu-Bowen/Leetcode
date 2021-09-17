@@ -1,5 +1,8 @@
 # 长度最小的子数组
 
+力扣：
+https://leetcode-cn.com/problems/minimum-size-subarray-sum/
+
 我使用的是暴力解法
 
 最好的思路是**滑动窗口**

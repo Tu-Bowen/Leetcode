@@ -1,5 +1,7 @@
 # 回文子串
 
+https://leetcode-cn.com/problems/palindromic-substrings/
+
 **思路**动态规划
 
 

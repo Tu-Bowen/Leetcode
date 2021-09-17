@@ -1,4 +1,6 @@
 #  全排列一
+力扣
+https://leetcode-cn.com/problems/permutations/
 
 **思路**回溯算法
 

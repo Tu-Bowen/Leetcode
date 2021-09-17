@@ -1,6 +1,8 @@
 # 最长回文字串
 
 
+https://leetcode-cn.com/problems/longest-palindromic-substring/
+
 **思路**
 
 动态规划
